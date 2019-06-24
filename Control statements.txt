@@ -53,6 +53,15 @@ while(cond):
    update
 -----------------------------------
 
+# For Loop
+
+## syntax:
+    
+    
+    for <varname> in <seq>:
+        <statement>
+--------------------------------        
+
 functional programming
 
 
